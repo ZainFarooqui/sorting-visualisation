@@ -1,0 +1,15 @@
+.array-container {
+	position: flex;
+	display: inline-block;
+	bottom: 0px;
+	padding: 10px;
+}
+
+.array-bars {
+	margin: 0 10px;
+}
+
+.button-bar {
+	position: absolute;
+	bottom: 0px;
+}
